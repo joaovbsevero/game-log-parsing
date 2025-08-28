@@ -1,6 +1,6 @@
 # Game Log Parser
 
-This project parses Quake 3 Arena server log files to extract and analyze game events, player statistics, and match outcomes. It is written in Rust and designed for performance and reliability.
+This project parses game server log files to extract and analyze game events, player statistics, and match outcomes. It is written in Rust and designed for performance and reliability.
 
 ## Features
 - Parses game log files (e.g., `resources/qgames.log.txt`).
@@ -54,3 +54,4 @@ score: 16  ping: 31  client: 7 Assasinu Credi
 score: 12  ping: 2  client: 3 Isgalamido
 ...etc...
 ```
+
